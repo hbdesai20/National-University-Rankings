@@ -1,3 +1,3 @@
-# PythonProjects
+# National University Rankings
 
-Hello and welcome! This repository contains python projects ranging from various topics such as data cleaning and analysis to more advanced techniques such as machine learning. All datasets used in the scripts were obtained freely from kaggle and datacamp repositories.
+Hello and welcome! This repository contains csv file and jupyter notebook analyzing tuition information for ~230 schools in the U.S. This project focuses mainly on data manipulation and explratory data analysis.
